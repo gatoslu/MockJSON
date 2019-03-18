@@ -1,0 +1,77 @@
+{
+  "version": 1541487712000,
+  "windows": [
+    {
+      "functionCode": "",
+      "loginType": 0,
+      "jumpType": "web",
+      "jumpUrl": "http://www.baidu.com",
+      "showTime": 1,
+      "startTime": 1541487712000,
+      "endTime": 1546066912000,
+      "imgUrl": "/api/config/app/ui/image/ueditor/1551517339708_135x135.png",
+      "skipFlag": 1
+    }
+  ],
+  "initAdv": [
+    {
+      "functionCode": "",
+      "loginType": 1,
+      "jumpType": "native",
+      "jumpUrl": "",
+      "showTime": 1,
+      "startTime": 1541487712000,
+      "endTime": 1546066912000,
+      "imgUrl": "/api/config/app/ui/image/ueditor/1551517339708_135x135.png",
+      "skipFlag": 1
+    }
+  ],
+  "homeAdv": [
+    {
+      "functionCode": "",
+      "loginType": 1,
+      "jumpType": "native",
+      "jumpUrl": "",
+      "showTime": 1,
+      "startTime": 1541487712000,
+      "endTime": 1546066912000,
+      "imgUrl": "/api/config/app/ui/image/ueditor/1551517339708_135x135.png",
+      "skipFlag": 1
+    },
+    {
+      "functionCode": "",
+      "loginType": 2,
+      "jumpType": "native",
+      "jumpUrl": "",
+      "showTime": 1,
+      "startTime": 1541487712000,
+      "endTime": 1546066912000,
+      "imgUrl": "/api/config/app/ui/image/ueditor/1551517339708_135x135.png",
+      "skipFlag": 1
+    }
+  ],
+  "homeBannerAdv": [
+    {
+      "functionCode": "KDS_Level2",
+      "loginType": 1,
+      "jumpType": "native",
+      "jumpUrl": "",
+      "showTime": 1,
+      "startTime": 1541487712000,
+      "endTime": 1546066912000,
+      "imgUrl": "/api/config/app/ui/image/ueditor/1551517339708_135x135.png",
+      "skipFlag": 1
+    },
+    {
+      "functionCode": "KDS_YJDX",
+      "loginType": 2,
+      "jumpType": "native",
+      "jumpUrl": "",
+      "showTime": 1,
+      "startTime": 1541487712000,
+      "endTime": 1546066912000,
+      "imgUrl": "/api/config/app/ui/image/ueditor/1551517339708_135x135.png",
+      "skipFlag": 1
+    }
+  ]
+}

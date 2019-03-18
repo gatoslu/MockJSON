@@ -1,0 +1,166 @@
+{
+    "downloadPath": "/api/config/app/ui/image/ueditor/",
+    "modulePage": [{
+            "compCode": "BannerAdv",
+            "compProp": {
+                "functionCode": "HomeBannarAdv",
+                "heightScale": 0.45,
+                "bottomSpaceScale": 0.04
+            },
+            "compItems": []
+        },
+        {
+            "compCode": "wdyy",
+            "compProp": {
+                "functionName": "我的应用"
+            },
+            "compItems": [{
+                    "functionCode": "YT_XSKX",
+                    "functionName": "智能K线",
+                    "imgUrl": "1543975620789_90x90.png",
+                    "loginType": 0,
+                    "jumpType": "native",
+                    "badgeState": 2,
+                    "hasNativeTitle": true
+                },
+                {
+                    "functionCode": "YT_DingZhi",
+                    "functionName": "更多",
+                    "imgUrl": "1543975681474_90x92.png",
+                    "loginType": 0,
+                    "jumpType": "native",
+                    "badgeState": 2,
+                    "hasNativeTitle": true
+                }
+            ]
+        },
+        {
+            "compCode": "jjl",
+            "compProp": {
+                "functionName": "交易类",
+                "attributionSubPage": "MoreMenuPage"
+            },
+            "compItems": [{
+                "functionCode": "YT_JY_XGSG",
+                "functionName": "一键打新",
+                "imgUrl": "1543979412647_90x90.png",
+                "loginType": 2,
+                "jumpType": "native",
+                "badgeState": 2,
+                "hasNativeTitle": true
+            }]
+        },
+        {
+            "compCode": "hql",
+            "compProp": {
+                "functionName": "行情类",
+                "attributionSubPage": "MoreMenuPage"
+            },
+            "compItems": [{
+                "functionCode": "YT_HSPH",
+                "functionName": "沪深排行",
+                "imgUrl": "1543975422256_90x90.png",
+                "loginType": 2,
+                "jumpType": "native",
+                "badgeState": 2,
+                "hasNativeTitle": true
+            }]
+        },
+        {
+            "compCode": "gjl",
+            "compProp": {
+                "functionName": "工具类",
+                "attributionSubPage": "MoreMenuPage"
+            },
+            "compItems": [{
+                "functionCode": "YT_ZNCM",
+                "functionName": "智能筹码",
+                "imgUrl": "1543975966870_90x90.png",
+                "loginType": 2,
+                "jumpType": "native",
+                "badgeState": 2,
+                "hasNativeTitle": true
+            }]
+        },
+        {
+            "compCode": "NoticeCard",
+            "compProp": {
+                "functionCode": "YT_NOTICE",
+                "functionName": "公告条",
+                "description": "公告条...",
+                "heightScale": 0.12,
+                "bottomSpaceScale": 0.04
+            },
+            "compItems": []
+        },
+        {
+            "compCode": "Opportunity",
+            "compProp": {
+                "functionCode": "YT_OPPORTUNITY",
+                "functionName": "最新机会",
+                "description": "最新机会...",
+                "heightScale": 1.11,
+                "bottomSpaceScale": 0.04
+            },
+            "compItems": []
+        },
+        {
+            "compCode": "VerticalMargin",
+            "compProp": {
+                "functionName": "投资专区",
+                "heightScale": 0.576,
+                "bottomSpaceScale": 0.04
+            },
+            "compItems": [{
+                    "functionCode": "YT_JY_GZNHG",
+                    "functionName": "国债逆回购",
+                    "description": "低风险出借资金，随时锁定收益",
+                    "loginType": 2,
+                    "imgUrl": "1543979935314_540x320.png",
+                    "jumpUrl": "http://www.baidu.com",
+                    "hasNativeTitle": true,
+                    "jumpType": "native"
+                },
+                {
+                    "functionCode": "YT_JY_XGSG",
+                    "functionName": "新股申购",
+                    "description": "智能化一键打新，该“拼人品”了",
+                    "loginType": 2,
+                    "imgUrl": "1543979935314_540x320.png",
+                    "jumpUrl": "http://www.baidu.com",
+                    "hasNativeTitle": true,
+                    "jumpType": "native"
+                }
+            ]
+        },
+        {
+            "compCode": "HorizontalMargin",
+            "compProp": {
+                "functionName": "智能新品",
+                "heightScale": 0.47,
+                "bottomSpaceScale": 0.04
+            },
+            "compItems": [{
+                "functionCode": "YT_DTZQ",
+                "functionName": "定投专区",
+                "description": "做个聪明的“懒人”",
+                "loginType": 2,
+                "imgUrl": "1543979935314_540x320.png",
+                "jumpUrl": "http://www.baidu.com",
+                "hasNativeTitle": true,
+                "jumpType": "native"
+            }]
+        },
+        {
+            "compCode": "StockRecommend",
+            "compProp": {
+                "functionCode": "YT_STOCK_RECOMMEND",
+                "functionName": "大家都在看",
+                "description": "大家都在看...",
+                "heightScale": 0.45,
+                "bottomSpaceScale": 0.04
+            },
+            "compItems": []
+        }
+    ]
+}
